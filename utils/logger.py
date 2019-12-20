@@ -1,4 +1,3 @@
-import tensorflow as tf
 from torch.utils.tensorboard import SummaryWriter
 
 
